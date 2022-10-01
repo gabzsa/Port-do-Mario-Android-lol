@@ -119,9 +119,9 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		mov = 1
    		setPropertyFromClass("openfl.Lib", "application.window.title", "INNOCENCE WON'T GET YOU FAR")
 	elseif tag == 'lowEnd' then
-		startVideo('');
+		startVideo('cut1');
 	elseif tag == 'lowEndB' then
-		startVideo('');
+		startVideo('cut2');
 	end
 end
 
