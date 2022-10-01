@@ -1,0 +1,51 @@
+function onCreate()
+	makeLuaSprite("sky","sky",-700,-350)
+	addLuaSprite("sky",false)
+	setLuaSpriteScrollFactor("sky",0.4,0.4)
+
+	makeAnimatedLuaSprite("cloud","cloud",2000,math.random(-300,300))
+	addAnimationByPrefix("cloud","cloudlaugh","nobe",24,true)
+	addLuaSprite("cloud",false)
+	scaleObject('cloud', math.random(0.6,0.8))
+	setLuaSpriteScrollFactor("cloud",math.random(0.4,0.8),math.random(0.5,0.8))
+
+	makeLuaSprite("floor","floor",-600,-220)
+	addLuaSprite("floor",false)
+	setLuaSpriteScrollFactor("floor",1,1)
+end
+
+function onBeatHit()
+	objectPlayAnimation("cloud","cloudlaugh",true)
+end
+
+function onUpdate()
+	setTextString('botplayTxt', getProperty('cloud.x'))
+	setProperty('cloud.x',getProperty('cloud.x')-5)
+		if getProperty('cloud.x') == -900 then
+			removeLuaSprite('cloud', false)
+			makeAnimatedLuaSprite("cloud","cloud",2000,math.random(-300,300))
+			addAnimationByPrefix("cloud","cloudlaugh","nobe",24,true)
+			addLuaSprite("cloud",false)
+			setLuaSpriteScrollFactor("cloud",0.7,0.7)
+			setObjectOrder('sky', 1);
+			setObjectOrder('cloud', 2);
+			setObjectOrder('floor', 3);
+		end
+end
+
+function onBeatHit()
+	if curBeat == 96 then
+		runTimer("bgmarioDies", 5)
+		doTweenAlpha("skyscene", "sky", 0, 1,"quartInOut")
+		doTweenAlpha("floorscene", "floor", 0, 1, "quartInOut")
+		doTweenAlpha("cloudscene", "cloud", 0, 1, "quartInOut")
+	end
+end
+
+function onTimerCompleted(tag, loops, loopsLeft)
+	if tag == 'bgmarioDies' then
+		doTweenAlpha("skyend", "sky", 1, 1, "quartInOut")
+		doTweenAlpha("floorend", "floor", 1, 1, "quartInOut")
+		doTweenAlpha("cloudend", "cloud", 1, 1, "quartInOut")
+	end
+end
