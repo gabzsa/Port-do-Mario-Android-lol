@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle mario"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mario_stand",
+	"position": [
+		100,
+		-20
+	],
+	"healthicon": "mx",
+	"flip_x": false,
+	"healthbar_colors": [
+		121,
+		81,
+		40
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

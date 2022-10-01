@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				171,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				56,
+				264
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				130,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				132,
+				430
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				17,
+				61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "transformation",
+			"loop": false,
+			"name": "transformation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pc_mario",
+	"position": [
+		-160,
+		10
+	],
+	"healthicon": "mx",
+	"flip_x": false,
+	"healthbar_colors": [
+		10,
+		10,
+		10
+	],
+	"camera_position": [
+		-80,
+		-240
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
