@@ -1,0 +1,59 @@
+{
+	"storyName": "MX",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "MX",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Last Life",
+			"MX",
+			[
+				122,
+				36,
+				65
+			]
+		],
+		[
+			"Crack",
+			"X",
+			[
+				120,
+				119,
+				176
+			]
+		],
+		[
+			"Xenial",
+			"X",
+			[
+				120,
+				119,
+				176
+			]
+		],
+		[
+			"Fighting Back",
+			"CMX",
+			[
+				162,
+				0,
+				18
+			]
+		]
+		
+	],
+	"weekCharacters": [
+		"L",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": true,
+	"weekName": "TestWeek"
+}
