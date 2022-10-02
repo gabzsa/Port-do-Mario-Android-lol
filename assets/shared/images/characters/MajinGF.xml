@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MajinGF.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MaginGF0000" x="0" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0001" x="0" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0002" x="435" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0003" x="435" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0004" x="870" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0005" x="870" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0006" x="1305" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0007" x="1740" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0008" x="1740" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0009" x="1740" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0010" x="2175" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0011" x="2175" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0012" x="2175" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0013" x="2610" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0014" x="2610" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0015" x="3045" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0016" x="3045" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0017" x="3480" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0018" x="3480" y="0" width="435" height="533"/>
+	<SubTexture name="MaginGF0019" x="0" y="533" width="435" height="533"/>
+	<SubTexture name="MaginGF0020" x="0" y="533" width="435" height="533"/>
+	<SubTexture name="MaginGF0021" x="435" y="533" width="435" height="533"/>
+	<SubTexture name="MaginGF0022" x="870" y="533" width="435" height="533"/>
+	<SubTexture name="MaginGF0023" x="870" y="533" width="435" height="533"/>
+	<SubTexture name="MaginGF0024" x="1305" y="533" width="435" height="533"/>
+	<SubTexture name="MaginGF0025" x="1740" y="533" width="435" height="533"/>
+	<SubTexture name="MaginGF0026" x="1740" y="533" width="435" height="533"/>
+	<SubTexture name="MaginGF0027" x="1740" y="533" width="435" height="533"/>
+	<SubTexture name="MaginGF0028" x="2175" y="533" width="435" height="533"/>
+	<SubTexture name="MaginGF0029" x="2175" y="533" width="435" height="533"/>
+</TextureAtlas>

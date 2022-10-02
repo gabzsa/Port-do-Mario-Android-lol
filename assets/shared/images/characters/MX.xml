@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MX.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MX Down0000" x="0" y="0" width="1653" height="806" frameX="-17" frameY="-43" frameWidth="1698" frameHeight="862"/>
+	<SubTexture name="MX Down0001" x="0" y="0" width="1653" height="806" frameX="-17" frameY="-43" frameWidth="1698" frameHeight="862"/>
+	<SubTexture name="MX Down0002" x="0" y="0" width="1653" height="806" frameX="-17" frameY="-43" frameWidth="1698" frameHeight="862"/>
+	<SubTexture name="MX Down0003" x="1653" y="0" width="1601" height="767" frameX="-45" frameY="-83" frameWidth="1698" frameHeight="862"/>
+	<SubTexture name="MX Down0004" x="1653" y="0" width="1601" height="767" frameX="-45" frameY="-83" frameWidth="1698" frameHeight="862"/>
+	<SubTexture name="MX Down0005" x="1653" y="0" width="1601" height="767" frameX="-45" frameY="-83" frameWidth="1698" frameHeight="862"/>
+	<SubTexture name="MX Down0006" x="1653" y="0" width="1601" height="767" frameX="-45" frameY="-83" frameWidth="1698" frameHeight="862"/>
+	<SubTexture name="MX Down0007" x="1653" y="0" width="1601" height="767" frameX="-45" frameY="-83" frameWidth="1698" frameHeight="862"/>
+	<SubTexture name="MX Down0008" x="3254" y="0" width="1698" height="862"/>
+	<SubTexture name="MX Down0009" x="3254" y="0" width="1698" height="862"/>
+	<SubTexture name="MX Down0010" x="3254" y="0" width="1698" height="862"/>
+	<SubTexture name="MX Idle0000" x="4952" y="0" width="1563" height="1454"/>
+	<SubTexture name="MX Idle0001" x="4952" y="0" width="1563" height="1454"/>
+	<SubTexture name="MX Idle0002" x="4952" y="0" width="1563" height="1454"/>
+	<SubTexture name="MX Idle0003" x="6515" y="0" width="1515" height="1433" frameX="-18" frameY="-7" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0004" x="6515" y="0" width="1515" height="1433" frameX="-18" frameY="-7" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0005" x="6515" y="0" width="1515" height="1433" frameX="-18" frameY="-7" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0006" x="0" y="1454" width="1503" height="1423" frameX="-24" frameY="-9" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0007" x="0" y="1454" width="1503" height="1423" frameX="-24" frameY="-9" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0008" x="0" y="1454" width="1503" height="1423" frameX="-24" frameY="-9" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0009" x="1503" y="1454" width="1497" height="1419" frameX="-26" frameY="-12" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0010" x="1503" y="1454" width="1497" height="1419" frameX="-26" frameY="-12" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0011" x="1503" y="1454" width="1497" height="1419" frameX="-26" frameY="-12" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0012" x="3000" y="1454" width="1497" height="1420" frameX="-26" frameY="-11" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0013" x="3000" y="1454" width="1497" height="1420" frameX="-26" frameY="-11" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0014" x="3000" y="1454" width="1497" height="1420" frameX="-26" frameY="-11" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0015" x="3000" y="1454" width="1497" height="1420" frameX="-26" frameY="-11" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0016" x="3000" y="1454" width="1497" height="1420" frameX="-26" frameY="-11" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Idle0017" x="3000" y="1454" width="1497" height="1420" frameX="-26" frameY="-11" frameWidth="1563" frameHeight="1454"/>
+	<SubTexture name="MX Left0000" x="4497" y="1454" width="1586" height="1411"/>
+	<SubTexture name="MX Left0001" x="6083" y="1454" width="1545" height="1377" frameX="-15" frameY="-17" frameWidth="1586" frameHeight="1411"/>
+	<SubTexture name="MX Left0002" x="6083" y="1454" width="1545" height="1377" frameX="-15" frameY="-17" frameWidth="1586" frameHeight="1411"/>
+	<SubTexture name="MX Left0003" x="6083" y="1454" width="1545" height="1377" frameX="-15" frameY="-17" frameWidth="1586" frameHeight="1411"/>
+	<SubTexture name="MX Left0004" x="0" y="2877" width="1525" height="1361" frameX="-21" frameY="-26" frameWidth="1586" frameHeight="1411"/>
+	<SubTexture name="MX Left0005" x="0" y="2877" width="1525" height="1361" frameX="-21" frameY="-26" frameWidth="1586" frameHeight="1411"/>
+	<SubTexture name="MX Left0006" x="0" y="2877" width="1525" height="1361" frameX="-21" frameY="-26" frameWidth="1586" frameHeight="1411"/>
+	<SubTexture name="MX Left0007" x="1525" y="2877" width="1525" height="1361" frameX="-21" frameY="-26" frameWidth="1586" frameHeight="1411"/>
+	<SubTexture name="MX Left0008" x="1525" y="2877" width="1525" height="1361" frameX="-21" frameY="-26" frameWidth="1586" frameHeight="1411"/>
+	<SubTexture name="MX Left0009" x="1525" y="2877" width="1525" height="1361" frameX="-21" frameY="-26" frameWidth="1586" frameHeight="1411"/>
+	<SubTexture name="MX Left0010" x="1525" y="2877" width="1525" height="1361" frameX="-21" frameY="-26" frameWidth="1586" frameHeight="1411"/>
+	<SubTexture name="MX Left0011" x="1525" y="2877" width="1525" height="1361" frameX="-21" frameY="-26" frameWidth="1586" frameHeight="1411"/>
+	<SubTexture name="MX Left0012" x="4497" y="1454" width="1586" height="1411"/>
+	<SubTexture name="MX Right0000" x="3050" y="2877" width="1565" height="1256"/>
+	<SubTexture name="MX Right0001" x="3050" y="2877" width="1565" height="1256"/>
+	<SubTexture name="MX Right0002" x="4615" y="2877" width="1549" height="1237" frameX="-5" frameY="-9" frameWidth="1565" frameHeight="1256"/>
+	<SubTexture name="MX Right0003" x="4615" y="2877" width="1549" height="1237" frameX="-5" frameY="-9" frameWidth="1565" frameHeight="1256"/>
+	<SubTexture name="MX Right0004" x="4615" y="2877" width="1549" height="1237" frameX="-5" frameY="-9" frameWidth="1565" frameHeight="1256"/>
+	<SubTexture name="MX Right0005" x="6164" y="2877" width="1533" height="1229" frameX="-14" frameY="-15" frameWidth="1565" frameHeight="1256"/>
+	<SubTexture name="MX Right0006" x="6164" y="2877" width="1533" height="1229" frameX="-14" frameY="-15" frameWidth="1565" frameHeight="1256"/>
+	<SubTexture name="MX Right0007" x="6164" y="2877" width="1533" height="1229" frameX="-14" frameY="-15" frameWidth="1565" frameHeight="1256"/>
+	<SubTexture name="MX Right0008" x="0" y="4238" width="1533" height="1229" frameX="-14" frameY="-15" frameWidth="1565" frameHeight="1256"/>
+	<SubTexture name="MX Right0009" x="0" y="4238" width="1533" height="1229" frameX="-14" frameY="-15" frameWidth="1565" frameHeight="1256"/>
+	<SubTexture name="MX Right0010" x="0" y="4238" width="1533" height="1229" frameX="-14" frameY="-15" frameWidth="1565" frameHeight="1256"/>
+	<SubTexture name="MX Right0011" x="0" y="4238" width="1533" height="1229" frameX="-14" frameY="-15" frameWidth="1565" frameHeight="1256"/>
+	<SubTexture name="MX Right0012" x="0" y="4238" width="1533" height="1229" frameX="-14" frameY="-15" frameWidth="1565" frameHeight="1256"/>
+	<SubTexture name="MX Up0000" x="1533" y="4238" width="1475" height="1247"/>
+	<SubTexture name="MX Up0001" x="1533" y="4238" width="1475" height="1247"/>
+	<SubTexture name="MX Up0002" x="3008" y="4238" width="1475" height="1247"/>
+	<SubTexture name="MX Up0003" x="4483" y="4238" width="1459" height="1232" frameX="-9" frameY="-8" frameWidth="1475" frameHeight="1247"/>
+	<SubTexture name="MX Up0004" x="4483" y="4238" width="1459" height="1232" frameX="-9" frameY="-8" frameWidth="1475" frameHeight="1247"/>
+	<SubTexture name="MX Up0005" x="5942" y="4238" width="1459" height="1232" frameX="-9" frameY="-8" frameWidth="1475" frameHeight="1247"/>
+	<SubTexture name="MX Up0006" x="0" y="5485" width="1459" height="1232" frameX="-9" frameY="-8" frameWidth="1475" frameHeight="1247"/>
+	<SubTexture name="MX Up0007" x="0" y="5485" width="1459" height="1232" frameX="-9" frameY="-8" frameWidth="1475" frameHeight="1247"/>
+	<SubTexture name="MX Up0008" x="1459" y="5485" width="1459" height="1232" frameX="-9" frameY="-8" frameWidth="1475" frameHeight="1247"/>
+	<SubTexture name="MX Up0009" x="1459" y="5485" width="1459" height="1232" frameX="-9" frameY="-8" frameWidth="1475" frameHeight="1247"/>
+	<SubTexture name="MX Up0010" x="2918" y="5485" width="1459" height="1232" frameX="-9" frameY="-8" frameWidth="1475" frameHeight="1247"/>
+</TextureAtlas>
