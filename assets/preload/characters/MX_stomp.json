@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1081,
+				773
+			],
+			"anim": "stomp",
+			"fps": 24,
+			"name": "MX Stomp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1079,
+				778
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MX Stomp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1079,
+				779
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MX Stomp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1079,
+				777
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MX Stomp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1080,
+				780
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MX Stomp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1080,
+				780
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MX Stomp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 60,
+			"anim": "",
+			"loop": false,
+			"name": ""
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MX_stomp",
+	"position": [
+		-20,
+		-280
+	],
+	"healthicon": "MX",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		0,
+		0
+	],
+	"camera_position": [
+		-690,
+		-810
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

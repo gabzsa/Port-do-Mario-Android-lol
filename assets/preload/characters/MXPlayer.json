@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MX Idle"
+		},
+		{
+			"offsets": [
+				58,
+				-320
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MX Down"
+		},
+		{
+			"offsets": [
+				-70,
+				76
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MX Up"
+		},
+		{
+			"offsets": [
+				371,
+				-162
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MX Right"
+		},
+		{
+			"offsets": [
+				-217,
+				326
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MX Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MX",
+	"position": [
+		-230,
+		-460
+	],
+	"healthicon": "MX",
+	"flip_x": false,
+	"healthbar_colors": [
+		122,
+		36,
+		65
+	],
+	"camera_position": [
+		420,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
