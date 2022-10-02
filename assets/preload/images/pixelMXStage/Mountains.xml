@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mountains.png"><SubTexture name="Mountains Mountain Blink0000" x="0" y="0" width="1740" height="170" frameX="0" frameY="-485" frameWidth="1740" frameHeight="940" />
+<SubTexture name="Mountains Mountain Blink0001" x="0" y="170" width="1740" height="170" frameX="0" frameY="-485" frameWidth="1740" frameHeight="940" />
+<SubTexture name="Mountains Mountain Blink0002" x="0" y="340" width="1740" height="170" frameX="0" frameY="-485" frameWidth="1740" frameHeight="940" />
+<SubTexture name="Mountains Mountain Blink0003" x="0" y="510" width="1740" height="170" frameX="0" frameY="-485" frameWidth="1740" frameHeight="940" />
+<SubTexture name="Mountains Mountain Blink0004" x="0" y="340" width="1740" height="170" frameX="0" frameY="-485" frameWidth="1740" frameHeight="940" />
+<SubTexture name="Mountains Mountain Blink0005" x="0" y="170" width="1740" height="170" frameX="0" frameY="-485" frameWidth="1740" frameHeight="940" />
+<SubTexture name="Mountains Mountain Blink0006" x="0" y="0" width="1740" height="170" frameX="0" frameY="-485" frameWidth="1740" frameHeight="940" />
+</TextureAtlas>

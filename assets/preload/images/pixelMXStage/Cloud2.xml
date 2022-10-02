@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cloud2.png"><SubTexture name="Cloud2 Cloud20000" x="290" y="0" width="290" height="145" frameX="0" frameY="0" frameWidth="290" frameHeight="155" />
+<SubTexture name="Cloud2 Cloud20001" x="290" y="0" width="290" height="145" frameX="0" frameY="0" frameWidth="290" frameHeight="155" />
+<SubTexture name="Cloud2 Cloud20002" x="0" y="0" width="290" height="150" frameX="0" frameY="0" frameWidth="290" frameHeight="155" />
+<SubTexture name="Cloud2 Cloud20003" x="0" y="0" width="290" height="150" frameX="0" frameY="-5" frameWidth="290" frameHeight="155" />
+<SubTexture name="Cloud2 Cloud20004" x="0" y="0" width="290" height="150" frameX="0" frameY="0" frameWidth="290" frameHeight="155" />
+</TextureAtlas>
