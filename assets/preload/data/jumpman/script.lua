@@ -117,12 +117,6 @@ function onTimerCompleted(tag, loops, loopsLeft)
 		doTweenAlpha("picoend", "boyfriend", 1, 1, "quartInOut")
 		isMarioDead = 1
 		mov = 1
-   		setPropertyFromClass("openfl.Lib", "application.window.title", "INNOCENCE WON'T GET YOU FAR")
-	elseif tag == 'lowEnd' then
-		startVideo('cut1');
-	elseif tag == 'lowEndB' then
-		startVideo('cut2');
-	end
 end
 
 function onGameOver()
@@ -157,7 +151,7 @@ function onUpdatePost()
 			end
 		end
 	elseif mov == 2 then
-		noteTweenAngle('wow', 0, 360, 0.25, 'circInOut')
+		noteTweenAngle('wow', 0, 36 0, 0.25, 'circInOut')
 		noteTweenAngle('wow1', 1, 360, 0.25, 'circInOut')
 		noteTweenAngle('wow2', 2, 360, 0.25, 'circInOut')
 		noteTweenAngle('wow3', 3, 360, 0.25, 'circInOut')
