@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cloud.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cloud Float0000" x="0" y="0" width="600" height="605" frameX="-12" frameY="0" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0001" x="640" y="0" width="602" height="605" frameX="-11" frameY="0" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0002" x="1282" y="0" width="602" height="599" frameX="-11" frameY="-1" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0003" x="1924" y="0" width="604" height="597" frameX="-10" frameY="-4" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0004" x="2568" y="0" width="608" height="568" frameX="-8" frameY="-10" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0005" x="3216" y="0" width="619" height="554" frameX="-3" frameY="-26" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0006" x="0" y="645" width="623" height="555" frameX="-1" frameY="-31" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0007" x="663" y="645" width="625" height="552" frameX="0" frameY="-34" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0008" x="1328" y="645" width="625" height="552" frameX="0" frameY="-35" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0009" x="1993" y="645" width="625" height="551" frameX="0" frameY="-36" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0010" x="2658" y="645" width="625" height="573" frameX="0" frameY="-35" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0011" x="3323" y="645" width="625" height="574" frameX="0" frameY="-34" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0012" x="0" y="1259" width="623" height="571" frameX="-1" frameY="-32" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0013" x="663" y="1259" width="621" height="574" frameX="-2" frameY="-28" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0014" x="1324" y="1259" width="615" height="559" frameX="-5" frameY="-20" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0015" x="2568" y="0" width="608" height="568" frameX="-8" frameY="-9" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0016" x="1979" y="1259" width="604" height="578" frameX="-10" frameY="-5" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0017" x="2623" y="1259" width="603" height="581" frameX="-11" frameY="-2" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0018" x="3266" y="1259" width="602" height="582" frameX="-11" frameY="-1" frameWidth="625" frameHeight="608"/>
+	<SubTexture name="Cloud Float0019" x="0" y="1881" width="601" height="583" frameX="-12" frameY="0" frameWidth="625" frameHeight="608"/>
+</TextureAtlas>

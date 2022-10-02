@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Hill.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Hill0000" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0001" x="3136" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0002" x="0" y="1734" width="3096" height="1694"/>
+	<SubTexture name="Hill0003" x="3136" y="1734" width="3096" height="1694"/>
+	<SubTexture name="Hill0004" x="0" y="3468" width="3096" height="1694"/>
+	<SubTexture name="Hill0005" x="3136" y="3468" width="3096" height="1694"/>
+	<SubTexture name="Hill0006" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0007" x="0" y="5202" width="3096" height="1694"/>
+	<SubTexture name="Hill0008" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0009" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0010" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0011" x="0" y="5202" width="3096" height="1694"/>
+	<SubTexture name="Hill0012" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0013" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0014" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0015" x="0" y="5202" width="3096" height="1694"/>
+	<SubTexture name="Hill0016" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0017" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0018" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0019" x="0" y="5202" width="3096" height="1694"/>
+	<SubTexture name="Hill0020" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0021" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0022" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0023" x="0" y="5202" width="3096" height="1694"/>
+	<SubTexture name="Hill0024" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0025" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0026" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0027" x="0" y="5202" width="3096" height="1694"/>
+	<SubTexture name="Hill0028" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0029" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0030" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0031" x="0" y="5202" width="3096" height="1694"/>
+	<SubTexture name="Hill0032" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0033" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0034" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0035" x="0" y="5202" width="3096" height="1694"/>
+	<SubTexture name="Hill0036" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0037" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0038" x="0" y="0" width="3096" height="1694"/>
+	<SubTexture name="Hill0039" x="0" y="5202" width="3096" height="1694"/>
+</TextureAtlas>
